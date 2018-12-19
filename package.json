@@ -3,6 +3,7 @@
     "displayName": "language-fbp",
     "description": "FBP flow definition language support for Visual Studio Code",
     "version": "0.1.0",
+    "publisher": "leuisken",
     "engines": {
         "vscode": "^1.30.0"
     },
